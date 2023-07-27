@@ -16,7 +16,7 @@ Merhaba! Ben Özcan Kasapoğlu, 18 yaşındayım ve Discord botları ile uğraş
 ## İletişim
 Eğer benimle iletişime geçmek, projeler hakkında konuşmak veya işbirliği yapmak isterseniz, aşağıdaki iletişim bilgilerinden bana ulaşabilirsiniz:
 
-- Discord: [GYO#2700](https://discord.com/users/788693808262021120/)
+- Discord: [ozcangyo](https://discord.com/users/788693808262021120/)
 - E-posta: ozjangyo@gmail.com
 - GitHub: [GYO](https://github.com/ozcangyo)
 
